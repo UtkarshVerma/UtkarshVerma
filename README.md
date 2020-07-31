@@ -20,6 +20,11 @@ Here are some of my recent projects:
 ### 📚 Recent Blog Posts
 Here are some of my recent blog posts:
 <!-- BLOG-POSTS:START -->
+- [How to use inline SVGs with Hugo](https://bitbanged.com/authors/utkarsh/)
+- [How to hide i3wm's title bar properly](https://bitbanged.com/authors/utkarsh/)
+- [Enter, semiprime numbers](https://bitbanged.com/authors/utkarsh/)
+- [Behold, the factorial](https://bitbanged.com/authors/utkarsh/)
+- [How to install Mongoose OS on ESPer or ESP32](https://bitbanged.com/authors/utkarsh/)
 <!-- BLOG-POSTS:END -->
 
 ---
