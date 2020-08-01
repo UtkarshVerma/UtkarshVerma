@@ -1,0 +1,21 @@
+name: BitBanged.com has been updated.
+on:
+  - push
+  - repository_dispatch
+
+jobs:
+  update-readme:
+    name: Update README.
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Add recent blog posts.
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: https://bitbanged.com/authors/utkarsh/posts/index.xml
+          comment_tag_name: BLOG-POSTS
+      - name: Add recent projects.
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: https://bitbanged.com/authors/utkarsh/projects/index.xml
+          comment_tag_name: PROJECTS
