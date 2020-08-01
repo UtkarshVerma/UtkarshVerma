@@ -13,11 +13,11 @@ You can connect with me through the following methods:
 ### 📌 Recent Projects
 Here are some of my recent projects:
 <!-- PROJECTS:START -->
-- [qGmail](https://bitbanged.com/authors/utkarsh/)
-- [Yaru Dark Theme for Firefox](https://bitbanged.com/authors/utkarsh/)
-- [Ecosia Darker](https://bitbanged.com/authors/utkarsh/)
-- [Hugo Dream Plus](https://bitbanged.com/authors/utkarsh/)
-- [Line Follower Robot](https://bitbanged.com/authors/utkarsh/)
+- [qGmail](https://github.com/UtkarshVerma/qgmail)
+- [Yaru Dark Theme for Firefox](https://addons.mozilla.org/en-US/firefox/addon/yaru-dark-theme)
+- [Ecosia Darker](https://github.com/UtkarshVerma/ecosia-darker)
+- [Hugo Dream Plus](https://github.com/UtkarshVerma/hugo-dream-plus)
+- [Line Follower Robot](https://github.com/TheProtoElectricEffect/LineFollower)
 <!-- PROJECTS:END -->
 
 ---
