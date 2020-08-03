@@ -14,8 +14,10 @@ jobs:
         with:
           feed_list: https://bitbanged.com/authors/utkarsh/posts/index.xml
           comment_tag_name: BLOG-POSTS
+          commit_message: Add recent blog posts.
       - name: Add recent projects.
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: https://bitbanged.com/authors/utkarsh/projects/index.xml
           comment_tag_name: PROJECTS
+          commit_message: Add recent projects.
