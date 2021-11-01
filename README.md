@@ -25,11 +25,11 @@ Here are some of my recent projects:
 ### 📚 Recent Blog Posts
 Here are some of my recent blog posts:
 <!-- BLOG-POSTS:START -->
+- [CTF, ELF binaries and Magic bytes](https://bitbanged.com/posts/ctf-elf-binaries-and-magic-bytes/)
 - [How to get colour emojis on Linux](https://bitbanged.com/posts/how-to-get-colour-emojis-on-linux/)
 - [How to use inline SVGs with Hugo](https://bitbanged.com/posts/how-to-use-inline-svgs-with-hugo/)
 - [How to hide i3wm's title bar properly](https://bitbanged.com/posts/how-to-hide-i3wms-title-bar-properly/)
 - [Enter, semiprime numbers](https://bitbanged.com/posts/one-liners/enter-semiprime-numbers/)
-- [Behold, the factorial](https://bitbanged.com/posts/one-liners/behold-the-factorial/)
 <!-- BLOG-POSTS:END -->
 
 ---
