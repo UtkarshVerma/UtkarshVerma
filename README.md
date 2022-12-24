@@ -3,10 +3,9 @@ Hi, this is Utkarsh. I'm into developing software, making projects and writing. 
 
 ### Connect with me
 You can connect with me through the following methods:
-- [Portfolio](https://utkarshverma.github.io)
-- [Twitter](https://twitter.com/UtkarshVerma_)
+- [Portfolio](https://utkarshverma.me)
 - [LinkedIn](https://linkedin.com/in/utkarshvermai)
-- [Email](mailto:utkarshverma@protonmail.com)
+- [Email](mailto:hi@utkarshverma.me)
 
 ---
 
