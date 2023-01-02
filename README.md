@@ -1,5 +1,5 @@
 ### About me
-Hi, this is Utkarsh. I'm into developing software, making projects and writing. I usually share my experiences with the world on my blog, [BitBanged](https://bitbanged.com). In my free time, I like to explore and tweak my Linux installation and sometimes indulge myself in anime.
+Hi, this is Utkarsh. I'm into developing software, making projects and writing. I usually share my experiences with the world on my blog, [BitBanged](https://bitbanged.com). When I'm free, I like to explore and tweak my Linux installation and sometimes indulge in anime.
 
 ### Connect with me
 You can connect with me through the following methods:
